@@ -17,5 +17,5 @@ jobs:
       - uses: FirebaseExtended/action-hosting-deploy@v0
         with:
           repoToken: ${{ secrets.GITHUB_TOKEN }}
-          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_MY_LANGUAGE_TRANSLATOR_8FA21 }}
-          projectId: my-language-translator-8fa21
+          firebaseServiceAccount: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_LANGUAGE_TRANSLATOR_2FB66 }}
+          projectId: Language-translator-2fb66

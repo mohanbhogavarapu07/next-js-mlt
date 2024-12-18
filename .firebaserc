@@ -1,7 +1,7 @@
 {
   "projects": {
-    "default": "my-language-translator-8fa21",
-    "translator": "language-translator-2fb66"
+    "translator": "language-translator-2fb66",
+    "default": "language-translator-2fb66"
   },
   "targets": {},
   "etags": {}
