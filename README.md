@@ -12,3 +12,10 @@ date: 18/12/24
 we are worked on the project where a nextjs app will be hosting on firebase.
 while hosting we are facing some issues.
 
+date: 19/12/24
+trying to solve issues on firebase
+date: 20/12/24
+deployed the app but its not working
+
+date: 23/12/14
+we are trying to fix the issue.
