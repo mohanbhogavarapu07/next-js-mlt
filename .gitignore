@@ -8,6 +8,6 @@ node_modules/
 
 # Other files to exclude
 *.cache
- .codegpt/
-        next-env.d.ts
+.codegpt/
+next-env.d.ts
 
